@@ -3,6 +3,7 @@
     <img src="https://skillicons.dev/icons?i=linux,html,css,bootstrap,tailwind,php,laravel,wordpress,mysql,sqlite,mongodb,javascript,jquery,react,nodejs,ts,godot,python,vscode,md,git,github,gitlab,stackoverflow,c" />
   </a>
 </p>
+
 # Tiago - O Desenvolvedor do Universo Digital 🌟🚀
 
 E aí, galera digital! Sou o Tiago, um entusiasta dos códigos e mestre das linhas binárias. Se liga só nas minhas aventuras pelo mundo da programação!
