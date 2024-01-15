@@ -30,4 +30,4 @@ Estou sempre explorando novas tecnologias, cursos e certificações para me mant
 
 ## Fora do Espaço Cibernético 🌍🌌
 
-Quando não estou mergulhando no código, gosto de contribuir com projetos sociais, aprender sobre novas culturas e curtir as coisas simples da vida.
+Quando não estou mergulhando no código, gosto de contribuir com projetos sociais, tocar música, andar de skate, praticar esportes, ler, cuidar da saúde, aprender sobre novas culturas e curtir as coisas simples da vida.
