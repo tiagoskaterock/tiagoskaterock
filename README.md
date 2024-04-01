@@ -4,30 +4,31 @@
   </a>
 </p>
 
-# Tiago - O Desenvolvedor do Universo Digital 🌟🚀
+# Tiago - The Developer of the Digital Universe 🌟🚀
 
-E aí, galera digital! Sou o Tiago, um entusiasta dos códigos e mestre das linhas binárias. Se liga só nas minhas aventuras pelo mundo da programação!
+Hey, digital folks! I'm Tiago, an enthusiast of codes and a master of binary lines. Check out my adventures in the programming world!
 
-## Sobre Mim 👨‍💻🌌
+## About Me 👨‍💻🌌
 
-Ah, eu sou aquele cara que respira HTML, CSS, JavaScript e muitos outros "idiomas" de programação. Estou sempre por aí, explorando novas tecnologias e construindo coisas incríveis!
+Ah, I'm that guy who breathes HTML, CSS, JavaScript, and many other programming "languages". I'm always out there, exploring new technologies and building amazing stuff!
 
-## Missão no Cosmos dos Códigos 🌐🛸
+## Mission in the Code Cosmos 🌐🛸
 
-Minha missão é deixar o universo digital um lugar mais interessante e funcional! Trabalho duro para criar experiências incríveis e soluções que tornem a vida online mais fácil e divertida.
+My mission is to make the digital universe a more interesting and functional place! I work hard to create incredible experiences and solutions that make online life easier and more fun.
 
-## Habilidades Interplanetárias 🚀🌌
+## Interplanetary Skills 🚀🌌
 
-Sou um mestre das estrelas quando se trata de desenvolvimento web! Me viro bem com HTML, CSS, JavaScript, PHP, Laravel e uma tonelada de outras ferramentas intergalácticas.
+I'm a master of the stars when it comes to web development! I'm good with HTML, CSS, JavaScript, PHP, Laravel, and a ton of other intergalactic tools.
 
-## Experiências Galácticas 🌟🌠
+## Galactic Experiences 🌟🌠
 
-Já estive envolvido em projetos emocionantes e coloridos como um verdadeiro arco-íris de código! Trabalhei em sistemas web, sites, e muitas outras coisas que fazem parte do nosso mundo online.
+I've been involved in exciting and colorful projects like a true rainbow of code! I've worked on web systems, websites, and many other things that are part of our online world.
 
-## Explorando Novas Fronteiras 🌈✨
+## Exploring New Frontiers 🌈✨
 
-Estou sempre explorando novas tecnologias, cursos e certificações para me manter atualizado e pronto para enfrentar os desafios das galáxias desconhecidas do desenvolvimento web!
+I'm always exploring new technologies, courses, and certifications to stay up-to-date and ready to face the challenges of the unknown galaxies of web development!
 
-## Fora do Espaço Cibernético 🌍🌌
+## Outside the Cyberspace 🌍🌌
 
-Quando não estou mergulhando no código, gosto de contribuir com projetos sociais, tocar música, andar de skate, praticar esportes, ler, cuidar da saúde, aprender sobre novas culturas e curtir as coisas simples da vida.
+When I'm not diving into code, I like to contribute to social projects, play music, skateboard, play sports, read, take care of my health, learn about new cultures, and enjoy the simple things in life.
+
